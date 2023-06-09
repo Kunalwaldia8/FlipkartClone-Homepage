@@ -1,0 +1,33 @@
+@media screen and (max-width:980px) {
+       
+
+    header {
+
+        height: 30vh;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .logo {
+        padding: 0px 0px;
+    }
+
+    .logo h6 {
+        padding: 0px 5px;
+        display: block;
+        position: static;
+        height: 12px;
+        margin: -4px 0px 2px 0px
+    }
+
+    .search_box {
+        margin: 1vh 0px 1vh 0px;
+    }
+
+    .card {
+        overflow: scroll;
+    }
+}

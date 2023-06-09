@@ -1,0 +1,33 @@
+.text-code {
+    padding: 0vw 0vw 0vw 2vw;
+}
+
+nav {
+    display: flex;
+}
+
+nav hr {
+    padding: 0vj 0vh 0vh 2vw;
+}
+
+li {
+    list-style-type: none;
+    width: 10vw
+}
+
+.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.my-1 {
+    padding: 2px 0px;
+    font-size: small;
+
+}
+
+.my-2 {
+    padding: 3px 0px;
+}
